@@ -158,12 +158,12 @@
 #     a,b = b,a+b
 #     i +=1
 
-n = int(input("정수 n 을 입력 : "))
-a,b = 0,1
+# n = int(input("정수 n 을 입력 : "))
+# a,b = 0,1
 
-for i in range(n):
-    print(a,end =" ")
-    a,b = b, a+b
+# for i in range(n):
+#     print(a,end =" ")
+#     a,b = b, a+b
 
 
 # range(star,stop,step) 
